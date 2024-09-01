@@ -1,1 +1,1 @@
-![Architecture Diagram](main/images/architecture.png)
+![Architecture Diagram](../images/architecture.png)
